@@ -7,7 +7,7 @@
       "type": "pwa-chrome",
       "request": "launch",
       "preLaunchTask": "npm: start",
-      "url": "http://localhost:4200/"
+      "url": "https://meanstacklecture-7.onrender.com/employees"
     },
     {
       "name": "ng test",
